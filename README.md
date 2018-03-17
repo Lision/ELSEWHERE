@@ -22,6 +22,6 @@ Emmmmm... 之前把自己的 Blog 从 GitHub 迁徙到了 VPS，无奈由于 VPS
 
 ## 许可
 
-![](Resources/Attribution 4.0 International (CC BY 4.0).png)
+![](Resources/license.png)
 
 此项目内所有文章均由 [@Lision](https://weibo.com/lisioncode) 创作，采用 [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 许可。
