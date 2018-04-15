@@ -251,3 +251,4 @@ Bingo！CATransaction 中有 `+completionBlock` 以及 `+setCompletionBlock:` �
 
 - [WWDC2014-Advanced Graphics and Animations for iOS Apps](https://developer.apple.com/videos/play/wwdc2014/419/)
 - [iOS 保持界面流畅的技巧](https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+- [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
