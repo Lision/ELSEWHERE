@@ -243,7 +243,7 @@ Bingo！CATransaction 中有 `+completionBlock` 以及 `+setCompletionBlock:` �
 | 开销昂贵的视图或特效 | 理解当前方案的开销成本 | Xcode View Debugger |
 | 想象不到的层次结构 | 了解实际的视图层次结构 | Xcode View Debugger |
 
-文章写得比较用心（是我个人的原创文章，转载请注明 https://lision.me/），如果发现错误会优先在我的 个人博客 中更新。如果有任何问题欢迎在我的微博 @Lision 联系我~
+文章写得比较用心（是我个人的原创文章，转载请注明 [https://lision.me/](https://lision.me/)），如果发现错误会优先在我的个人博客中更新。如果有任何问题欢迎在我的微博 [@Lision](http://weibo.com/lisioncode) 联系我~
 
 希望我的文章可以为你带来价值~
 
