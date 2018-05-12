@@ -1,6 +1,6 @@
 # ELSEWHERE
 
-![](Resources/SD.jpg)
+![](Resources/pixiv.jpg)
 
 ---
 
